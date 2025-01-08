@@ -90,11 +90,11 @@
 
 ###
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo" />
   </a>
@@ -111,6 +111,6 @@
 
 ###
 
-<h3 align="left">📧 Email: saiyamprogrammer@gmail.com<br>📍 Location: Dhaka, Bangladesh</h3>
+<h3 align="center">📧 Email: saiyamprogrammer@gmail.com<br>📍 Location: Dhaka, Bangladesh</h3>
 
 ###
