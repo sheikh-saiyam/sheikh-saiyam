@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://i.ibb.co.com/Gt9rBQy/Screenshot-2025-01-08-153241.png"  />
+  <img height="480" src="https://i.ibb.co.com/Gt9rBQy/Screenshot-2025-01-08-153241.png"  />
 </div>
 
 ###
@@ -99,7 +99,7 @@
   <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo" />
   </a>
-  <a href="[https://www.facebook.com/your-profile-link](https://www.facebook.com/shiekh.barshaad/)" target="_blank">
+  <a href="https://www.facebook.com/shiekh.barshaad/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="45" alt="facebook logo" />
   </a>
   <a href="mailto:saiyamprogrammer@gmail.com" target="_blank">
