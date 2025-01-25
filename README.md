@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">A passionate Web Developer with a focus on Front-End Development. My programming journey began with Programming Hero, where I was first introduced to the world of coding. Since then, I’ve been honing my skills and evolving as a developer, focusing on creating user-friendly and interactive websites. Currently, I am expanding my expertise into back-end development, working with technologies like Express.js, Node.js, and MongoDB.</p>
+<p align="left">A passionate Web Developer with a focus on Front-End Development. My programming journey began with Programming Hero. Since then, I’ve been honing my skills and evolving as a developer, focusing on creating user-friendly and interactive websites. Currently, I am expanding my expertise into back-end development, working with technologies like Express.js, Node.js, MongoDB and Next.js</p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔨 Building responsive and interactive websites with **React.js** and **Tailwind CSS**.  <br><br>- 📚 Learning **Node.js**, **Express.js**, and **MongoDB** to expand my Back-End expertise.  <br><br>- 💻 Working on exciting personal projects like **Game-Chill** and **GarirKhoj.com**.  <br><br>- 🌐 Exploring new tools and frameworks to enhance development efficiency.  <br><br>- 🌟 Contributing to open-source projects and collaborating with other developers.</p>
+<p align="left"> 🔨 Building responsive and interactive websites with **React.js** and **Tailwind CSS**.  <br><br> 📚 Learning **Node.js**, **Express.js**, and **MongoDB** to expand my Back-End expertise.  <br><br> 💻 Working on exciting personal projects like **Game-Chill** and **GarirKhoj.com**.  <br><br> 🌐 Exploring new tools and frameworks to enhance development efficiency.  <br><br> 🌟 Contributing to open-source projects and collaborating with other developers.</p>
 
 ###
 
@@ -103,9 +103,6 @@
   </a>
   <a href="mailto:saiyamprogrammer@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="45" alt="gmail logo" />
-  </a>
-  <a href="https://discord.com/users/your-discord-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="45" alt="discord logo" />
   </a>
 </div>
 
