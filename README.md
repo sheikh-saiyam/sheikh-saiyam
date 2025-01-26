@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left"> 🔨 Building responsive and interactive websites with **React.js** and **Tailwind CSS**.  <br><br> 📚 Learning **Node.js**, **Express.js**, and **MongoDB** to expand my Back-End expertise.  <br><br> 💻 Working on exciting personal projects like <strong>GarirKhoj.com</strong> and <strong>Vobon-Manager</strong>.  <br><br> 🌐 Exploring new tools and frameworks to enhance development efficiency.  <br><br> 🌟 Contributing to open-source projects and collaborating with other developers.</p>
+<p align="left"> 🔨 Building responsive and interactive websites with **React.js** and **Tailwind CSS**.  <br><br> 📚 Learning <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, and <strong>Next.js</strong> to expand my Back-End expertise.  <br><br> 💻 Working on exciting personal projects like <strong>GarirKhoj.com</strong> and <strong>Vobon-Manager</strong>.  <br><br> 🌐 Exploring new tools and frameworks to enhance development efficiency.  <br><br> 🌟 Contributing to open-source projects and collaborating with other developers.</p>
 
 ###
 
