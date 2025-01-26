@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🔥 Web Developer with expertise in HTML, CSS, JavaScript, and React.js.<br><br>🚀 Currently learning Express.js, Node.js, MongoDB, and Next.js to enhance my Back-End skills.<br><br>💡 Focused on solving complex problems and delivering meaningful digital solutions.<br><br>🌟 Problem-Solver: I enjoy breaking down complex problems into manageable pieces and crafting elegant, functional solutions.<br><br>🌐 Technology Enthusiast: Always exploring the latest trends and tools in the tech world to stay ahead.<br><br>💡 Future Goals: To master Full-Stack Development and contribute to impactful open-source projects.</p>
+<p align="left">🔥 <strong>Web Developer</strong> with expertise in <strong>HTML, CSS, JavaScript,</strong> and <strong>React.js</strong>.<br><br>🚀 Currently learning <strong>Express.js, Node.js, MongoDB,</strong> and <strong>Next.js</strong> to enhance my Back-End skills.<br><br>💡 Focused on solving complex problems and delivering meaningful digital solutions.<br><br>🌟 Problem-Solver: I enjoy breaking down complex problems into manageable pieces and crafting elegant, functional solutions.<br><br>🌐 Technology Enthusiast: Always exploring the latest trends and tools in the tech world to stay ahead.<br><br>💡 Future Goals: To master <strong>Full-Stack Development</strong> and contribute to impactful open-source projects.</p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left"> 🔨 Building responsive and interactive websites with **React.js** and **Tailwind CSS**.  <br><br> 📚 Learning <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, and <strong>Next.js</strong> to expand my Back-End expertise.  <br><br> 💻 Working on exciting personal projects like <strong>GarirKhoj.com</strong> and <strong>Vobon-Manager</strong>.  <br><br> 🌐 Exploring new tools and frameworks to enhance development efficiency.  <br><br> 🌟 Contributing to open-source projects and collaborating with other developers.</p>
+<p align="left"> 🔨 Building responsive and interactive websites with <strong>React.js</strong> and <strong>Tailwind CSS</strong>.  <br><br> 📚 Learning <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, and <strong>Next.js</strong> to expand my Back-End expertise.  <br><br> 💻 Working on exciting personal projects like <strong>GarirKhoj.com</strong> and <strong>Vobon-Manager</strong>.  <br><br> 🌐 Exploring new tools and frameworks to enhance development efficiency.  <br><br> 🌟 Contributing to open-source projects and collaborating with other developers.</p>
 
 ###
 
