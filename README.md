@@ -115,7 +115,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo" />
   </a>
   <a href="https://www.facebook.com/shiekh.barshaad/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" width="60" height="45" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" width="100" height="45" alt="facebook logo" />
   </a>
   <a href="mailto:saiyamprogrammer@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="45" alt="gmail logo" />
