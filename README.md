@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 About me</h2>
+<h2 align="left">👨‍💻 A B O U T - M E</h2>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 G I T H U B S T A T S</h2>
 
 ###
 
@@ -106,7 +106,7 @@
 
 ###
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🌐 C O N N E C T W I T H M E</h2>
 
 ###
 
