@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<h2 align="center">🚀 Skills</h2>
+<h2 align="center">🚀 <strong>S K I L L S</strong></h2>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h2 align="center">Tools</h2>
+<h2 align="center"> <strong>T O O L S</strong>></h2>
 
 ###
 
