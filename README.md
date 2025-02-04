@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 A B O U T - M E</h2>
+<h2 align="left">👨‍💻 ABOUT  ME</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">🚀 Current Activities</h3>
+<h3 align="left">🚀 CURRENT ACTIVITIES</h3>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h2 align="center">📊 G I T H U B S T A T S</h2>
+<h2 align="center">📊 GITHUB STATS</h2>
 
 ###
 
@@ -106,7 +106,7 @@
 
 ###
 
-<h2 align="center">🌐 C O N N E C T W I T H M E</h2>
+<h2 align="center">🌐 CONNECT WITH ME</h2>
 
 ###
 
