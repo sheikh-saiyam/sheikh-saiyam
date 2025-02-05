@@ -154,6 +154,6 @@
 ###
 
 <h3 align="center">📧 Email: sheikhsaiyam29@gmail.com
-<br>📍 Location: Dhaka, Bangladesh</h3>
+<br>📞 Phone-Number: +8801305-359707</h3>
 
 ###
