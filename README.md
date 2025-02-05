@@ -50,7 +50,7 @@
 
 | Activity | Description |
 |----------|-------------|
-| **🔨 Building** |  Building responsive and interactive websites with React.js & Tailwind CSS ensuring seamless user experiences. |
+| **🔨 Building** |  Building responsive & interactive websites with React.js & Tailwind CSS ensuring seamless user experiences. |
 | **📚 Learning** | Node.js, Express.js, MongoDB, and Next.js to expand Back-End expertise. |
 | **💻 Working On** | Exciting personal projects like [GarirKhoj.com](#) and [Vobon-Manager](#). |
 | **🌐 Exploring** | New tools and frameworks to enhance development efficiency. |
