@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💡 Future Goals</b></td>
-    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Master Full-Stack Development and contribute to impactful open-source projects.</td>
+    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Master Full-Stack Development and actively contribute to innotative, impactful open-source projects.</td>
   </tr>
 </table>
 
