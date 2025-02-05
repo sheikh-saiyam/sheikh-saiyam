@@ -48,6 +48,7 @@
 
 ## 🌟 CURRENT ACTIVITIES 
 
+|  |  |
 |----------|-------------|
 | **🔨 Building** |  Building responsive & interactive websites with React.js & Tailwind CSS ensuring seamless user experiences. |
 | **📚 Learning** | Node.js, Express.js, MongoDB, and Next.js to expand Back-End expertise and build scalable applications. |
