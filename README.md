@@ -13,21 +13,28 @@
 
 ###
 
-<h2 align="left">👨‍💻 ABOUT  ME</h2>
+## 👨‍💻 About Me
 
-###
+| Category            | Details |
+|---------------------|---------|
+| **Web Developer** | Expertise in HTML, CSS, JavaScript, and React.js. |
+| **🚀 Currently Learning** | Express.js, Node.js, MongoDB, and Next.js to enhance Back-End skills. |
+| **💡 Focus Area** | Solving complex problems and delivering meaningful digital solutions. |
+| **🌟 Problem-Solver** | Enjoys breaking down complex problems into manageable pieces and crafting elegant, functional solutions. |
+| **🌐 Technology Enthusiast** | Always exploring the latest trends and tools in the tech world to stay ahead. |
+| **💡 Future Goals** | Master Full-Stack Development and contribute to impactful open-source projects. |
 
-<p align="left">🔥 <strong>Web Developer</strong> with expertise in <strong>HTML, CSS, JavaScript,</strong> and <strong>React.js</strong>.<br><br>🚀 Currently learning <strong>Express.js, Node.js, MongoDB,</strong> and <strong>Next.js</strong> to enhance my Back-End skills.<br><br>💡 Focused on solving complex problems and delivering meaningful digital solutions.<br><br>🌟 Problem-Solver: I enjoy breaking down complex problems into manageable pieces and crafting elegant, functional solutions.<br><br>🌐 Technology Enthusiast: Always exploring the latest trends and tools in the tech world to stay ahead.<br><br>💡 Future Goals: To master <strong>Full-Stack Development</strong> and contribute to impactful open-source projects.</p>
+## 🚀 Current Activities
 
-###
+| Activity | Description |
+|----------|-------------|
+| **🔨 Building** | Responsive and interactive websites with React.js and Tailwind CSS. |
+| **📚 Learning** | Node.js, Express.js, MongoDB, and Next.js to expand Back-End expertise. |
+| **💻 Working On** | Exciting personal projects like [GarirKhoj.com](#) and [Vobon-Manager](#). |
+| **🌐 Exploring** | New tools and frameworks to enhance development efficiency. |
+| **🌟 Contributing** | Open-source projects and collaborating with other developers. |
 
-<h3 align="left">🚀 CURRENT ACTIVITIES</h3>
 
-###
-
-<p align="left"> 🔨 Building responsive and interactive websites with <strong>React.js</strong> and <strong>Tailwind CSS</strong>.  <br><br> 📚 Learning <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, and <strong>Next.js</strong> to expand my Back-End expertise.  <br><br> 💻 Working on exciting personal projects like <strong>GarirKhoj.com</strong> and <strong>Vobon-Manager</strong>.  <br><br> 🌐 Exploring new tools and frameworks to enhance development efficiency.  <br><br> 🌟 Contributing to open-source projects and collaborating with other developers.</p>
-
-###
 
 <br clear="both">
 
