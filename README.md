@@ -16,10 +16,10 @@
 ## 👨‍💻 ABOUT ME
 
 <table style="width:100%; border-collapse: collapse; text-align: center;">
-  <tr>
+<!--   <tr>
     <th style="width: 30%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Category</th>
     <th style="width: 100%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Details</th>
-  </tr>
+  </tr> -->
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💻 Web Developer</b></td>
     <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Expertise in HTML, CSS, Tailwind CSS, JavaScript, and React.js.</td>
