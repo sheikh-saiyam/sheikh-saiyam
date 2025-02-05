@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/B61Gzjs/1.png"  />
+  <img height="350" src="https://i.ibb.co.com/0pNZRgqJ/Simple-Technology-Linked-In-Banner.png"  />
 </div>
 
 ###
