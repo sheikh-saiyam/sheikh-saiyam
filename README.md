@@ -5,7 +5,7 @@
 ###
 
 
-<h1 align="left">👋 Hi, I'm Sheikh Saiyam, <h2>A Front-End Web Developer</h2></h1>
+<h1 align="left">👋 Hi, I'm Sheikh Saiyam, A Front-End Web Developer</h1>
 
 ###
 
