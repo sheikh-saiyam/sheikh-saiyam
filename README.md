@@ -56,9 +56,7 @@
 | **🌐 Exploring** | New tools and frameworks to enhance development efficiency and stay ahead in the tech industry. |
 | **🌟 Contributing** | Open-source projects and collaborating with other developers to create impactful solutions. |
 
-
-
-<br clear="both">
+###
 
 <h2 align="center">🚀 <strong>S K I L L S</strong></h2>
 
