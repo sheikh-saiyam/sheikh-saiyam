@@ -118,7 +118,9 @@
 
 ###
 
-<h2 align="center">📊 GITHUB STATS</h2>
+<h2 align="center">📊 GITHUB STATS || <div align="center">
+  <img src="https://profile-counter.glitch.me/sheikh-saiyam/count.svg?"  />
+</div></h2>
 
 ###
 
@@ -131,9 +133,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sheikh-saiyam/count.svg?"  />
-</div>
 
 ###
 
