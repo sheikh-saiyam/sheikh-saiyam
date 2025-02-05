@@ -17,11 +17,11 @@
 
 | Category            | Details |
 |---------------------|---------|
-| **</> Web Developer**   | Expertise in HTML, CSS, tailwindcss, JavaScript, and React.js. |
+| **💻 Web Developer**   | Expertise in HTML, CSS, tailwindcss, JavaScript, and React.js. |
 | **🚀 Currently Learning**   | Express.js, Node.js, MongoDB, and Next.js to enhance Back-End skills. |
 | **💡 Focus Area**   | Solving complex problems and delivering meaningful digital solutions. |
 | **🌟 Problem-Solver**   | Enjoys breaking down complex problems into manageable pieces and crafting elegant, functional solutions. |
-| **🌐 Technology Enthusiast**      | Always exploring the latest trends and tools in the tech world to stay ahead. |
+| **🌐 Technology Fan**      | Always exploring the latest trends and tools in the tech world to stay ahead. |
 | **💡 Future Goals**   | Master Full-Stack Development and contribute to impactful open-source projects. |
 
 ## 🚀 Current Activities
