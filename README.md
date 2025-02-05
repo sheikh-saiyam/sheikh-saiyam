@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## 🚀 CURRENT ACTIVITIES 
+## 🌟 CURRENT ACTIVITIES 
 
 | Activity | Description |
 |----------|-------------|
