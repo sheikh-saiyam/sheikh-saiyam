@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>🌐 Technology Fan</b></td>
-    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Always exploring the latest trends and tools in the tech world to stay ahead.</td>
+    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Always exploring the new and latest trends and cutting edge tools in the tech world to stay ahead.</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💡 Future Goals</b></td>
