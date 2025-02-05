@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">A passionate Web Developer with a focus on Front-End Development. My programming journey began with Programming Hero. Since then, I’ve been honing my skills and evolving as a developer, focusing on creating user-friendly and interactive websites. Currently, I am expanding my expertise into back-end development, working with technologies like Express.js, Node.js, MongoDB and Next.js</p>
+<h3 align="left">A passionate Web Developer with a focus on Front-End Development. My programming journey began with Programming Hero. Since then, I’ve been honing my skills and evolving as a developer, focusing on creating user-friendly and interactive websites. Currently, I am expanding my expertise into back-end development, working with technologies like Express.js, Node.js, MongoDB and Next.js</p>
 
 ###
 
