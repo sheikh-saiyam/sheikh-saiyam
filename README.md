@@ -16,10 +16,10 @@
 ## 👨‍💻 ABOUT ME
 
 <table style="width:100%; border-collapse: collapse; text-align: center;">
-<!--   <tr>
+  <tr>
     <th style="width: 30%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Category</th>
     <th style="width: 100%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Details</th>
-  </tr> -->
+  </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💻 Web Developer</b></td>
     <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Expertise in HTML, CSS, Tailwind CSS, JavaScript, and React.js.</td>
@@ -48,7 +48,7 @@
 
 ## 🌟 CURRENT ACTIVITIES 
 
-|  |  |
+| Activity | Description |
 |----------|-------------|
 | **🔨 Building** |  Building responsive & interactive websites with React.js & Tailwind CSS ensuring seamless user experiences. |
 | **📚 Learning** | Node.js, Express.js, MongoDB, and Next.js to expand Back-End expertise and build scalable applications. |
