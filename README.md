@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>🌟 Problem-Solver</b></td>
-    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Enjoys breaking down complex problems into manageable pieces and crafting elegant, functional solutions.</td>
+    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Enjoys breaking complex problems into manageable pieces and crafting elegant, functional solutions.</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>🌐 Technology Fan</b></td>
