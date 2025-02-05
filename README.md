@@ -13,7 +13,7 @@
 
 ###
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
 <table style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## 🚀 Current Activities
+## 🚀 CURRENT ACTIVITIES 
 
 | Activity | Description |
 |----------|-------------|
