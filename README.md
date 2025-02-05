@@ -13,17 +13,38 @@
 
 ###
 
-
 ## 👨‍💻 About Me
 
-| Category            | Details |
-|---------------------|---------|
-| **💻 Web Developer**   | Expertise in HTML, CSS, tailwindcss, JavaScript, and React.js. |
-| **🚀 Currently Learning**   | Express.js, Node.js, MongoDB, and Next.js to enhance Back-End skills. |
-| **💡 Focus Area**   | Solving complex problems and delivering meaningful digital solutions. |
-| **🌟 Problem-Solver**   | Enjoys Simplifies complex problems into clear, functional solutions. |
-| **🌐 Technology Fan**      | Always exploring the latest trends and tools in the tech world to stay ahead. |
-| **💡 Future Goals**   | Master Full-Stack Development and contribute to impactful open-source projects. |
+<table style="width:100%; border-collapse: collapse; text-align: left;">
+  <tr>
+    <th style="width: 30%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Category</th>
+    <th style="padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Details</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>💻 Web Developer</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Expertise in HTML, CSS, Tailwind CSS, JavaScript, and React.js.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>🚀 Currently Learning</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Express.js, Node.js, MongoDB, and Next.js to enhance Back-End skills.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>💡 Focus Area</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Solving complex problems and delivering meaningful digital solutions.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>🌟 Problem-Solver</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Simplifies complex problems into clear, functional solutions.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>🌐 Technology Fan</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Always exploring the latest trends and tools in the tech world to stay ahead.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>💡 Future Goals</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Full-Stack Development and contribute to impactful open-source projects.</td>
+  </tr>
+</table>
 
 ## 🚀 Current Activities
 
