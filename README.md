@@ -17,7 +17,7 @@
 
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tr>
-    <th style="width: 30%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Category</th>
+    <th style="width: 40%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Category</th>
     <th style="padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Details</th>
   </tr>
   <tr>
