@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<table style="width:100%; border-collapse: collapse; text-align: left;">
+<table style="width:100%; border-collapse: collapse; text-align: center;">
   <tr>
     <th style="width: 30%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Category</th>
     <th style="width: 100%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Details</th>
