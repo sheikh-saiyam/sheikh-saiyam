@@ -13,6 +13,7 @@
 
 ###
 
+<div align="center">
 ## 👨‍💻 About Me
 
 | Category            | Details |
@@ -23,7 +24,7 @@
 | **🌟 Problem-Solver**   | Enjoys Simplifies complex problems into clear, functional solutions. |
 | **🌐 Technology Fan**      | Always exploring the latest trends and tools in the tech world to stay ahead. |
 | **💡 Future Goals**   | Master Full-Stack Development and contribute to impactful open-source projects. |
-
+</div>
 ## 🚀 Current Activities
 
 | Activity | Description |
