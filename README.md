@@ -52,7 +52,7 @@
 |----------|-------------|
 | **🔨 Building** |  Building responsive & interactive websites with React.js & Tailwind CSS ensuring seamless user experiences. |
 | **📚 Learning** | Node.js, Express.js, MongoDB, and Next.js to expand Back-End expertise and build scalable applications. |
-| **💻 Working On** | Exciting personal projects like [GarirKhoj.com](https://garir-khoj.netlify.app/) & [Vobon-Manager](https://saiyam-assignment12.netlify.app/). focusing on innovation and performance. |
+| **💻 Working On** | Exciting personal projects like [Goal Khobor](https://goal-khobor.vercel.app/) & [Vobon Manager](https://saiyam-assignment12.netlify.app/). focusing on innovation and performance. |
 | **🌐 Exploring** | New tools and frameworks to enhance development efficiency and stay ahead in the tech industry. |
 | **🌟 Contributing** | Open-source projects and collaborating with other developers to create impactful solutions. |
 
