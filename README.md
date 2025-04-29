@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="350" src="https://i.ibb.co.com/0pNZRgqJ/Simple-Technology-Linked-In-Banner.png"  />
-</div>
+</div> -->
 
 ###
 
