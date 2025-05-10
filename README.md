@@ -108,6 +108,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/pnpm-222222?logo=pnpm&logoColor=white&style=for-the-badge" height="40" alt="pnpm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/bun-000000?logo=bun&logoColor=white&style=for-the-badge" height="40" alt="bun logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
