@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>🚀 Currently Learning</b></td>
-    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Express.js, Node.js, MongoDB, and Next.js to enhance Back-End skills.</td>
+    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Express.js, MongoDB, Typescript and Next.js to enhance Back-End skills.</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💡 Focus Area</b></td>
