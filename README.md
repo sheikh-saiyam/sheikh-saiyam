@@ -31,10 +31,10 @@
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💡 Focus Area</b></td>
     <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Solving complex problems and delivering meaningful digital solutions.</td>
   </tr>
-<!--   <tr>
+  <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>🌟 Problem-Solver</b></td>
     <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Enjoys breaking complex problems into manageable pieces and crafting elegant, functional solutions.</td>
-  </tr> -->
+  </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>🌐 Technology Fan</b></td>
     <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Always exploring the new and latest trends and cutting edge tools in the tech world to stay ahead.</td>
