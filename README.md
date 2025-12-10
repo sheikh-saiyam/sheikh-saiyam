@@ -49,9 +49,9 @@
 
 | Activity | Description |
 |----------|-------------|
-| **🔨 Building** |  Building responsive & interactive websites with React.js, Next.js & Tailwind CSS ensuring seamless user experiences. |
-| **📚 Learning** | Node.js, Express.js, PostgreSQL, and Typescript to expand Back-End expertise and build scalable applications. |
-| **🌐 Exploring** | New tools and frameworks to enhance development efficiency and stay ahead in the tech industry. |
+| **🔨  Building** |  Building responsive & interactive websites with React.js, Next.js & Tailwind CSS ensuring seamless user experiences. |
+| **📚  Learning** | Node.js, Express.js, PostgreSQL, and Typescript to expand Back-End expertise and build scalable applications. |
+| **🌐  Exploring** | New tools and frameworks to enhance development efficiency and stay ahead in the tech industry. |
 
 ###
 
