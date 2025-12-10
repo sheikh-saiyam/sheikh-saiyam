@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">🌟 A passionate Web Developer with a focus on Front-End Development. My programming journey began with Programming Hero. Since then, I’ve been honing my skills and evolving as a developer, focusing on creating user-friendly and interactive websites. Currently, I am expanding my expertise into back-end development, working with technologies like Express.js, MongoDB, Next.js and Typescript</h3>
+<h3 align="left">🌟 A passionate Web Developer with a focus on Front-End Development. I’ve been honing my skills and evolving as a developer, focusing on creating user-friendly and interactive websites. Currently, I am expanding my expertise into back-end development, working with technologies like Express.js, Typescript and PostgreSQL</h3>
 
 ###
 
@@ -20,12 +20,12 @@
     <th style="width: 100%; padding: 10px; border: 1px solid #ddd; font-size: 1.3em;">Details</th>
   </tr>
   <tr>
-    <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💻 Web Developer</b></td>
-    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Expertise in HTML, CSS, Tailwind CSS, JavaScript, and React.js.</td>
+    <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💻 Frontend Developer</b></td>
+    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Expertise in JavaScript, React.js, Next.js and TailwindCSS</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>🚀 Currently Learning</b></td>
-    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Express.js, MongoDB, Typescript and Next.js to enhance Back-End skills.</td>
+    <td style="width: 100%; padding: 10px; border: 1px solid #ddd;">Express.js, Typescript and PostgreSQL to enhance Back-End skills.</td>
   </tr>
   <tr>
     <td style="width: 30%; padding: 10px; border: 1px solid #ddd;"><b>💡 Focus Area</b></td>
@@ -49,11 +49,9 @@
 
 | Activity | Description |
 |----------|-------------|
-| **🔨 Building** |  Building responsive & interactive websites with React.js & Tailwind CSS ensuring seamless user experiences. |
-| **📚 Learning** | Node.js, Express.js, MongoDB, and Next.js to expand Back-End expertise and build scalable applications. |
-| **💻 Working On** | Exciting personal projects like [Goal Khobor](https://goal-khobor.vercel.app/) & [Vobon Manager](https://saiyam-assignment12.netlify.app/). focusing on innovation and performance. |
+| **🔨 Building** |  Building responsive & interactive websites with React.js, Next.js & Tailwind CSS ensuring seamless user experiences. |
+| **📚 Learning** | Node.js, Express.js, PostgreSQL, and Typescript to expand Back-End expertise and build scalable applications. |
 | **🌐 Exploring** | New tools and frameworks to enhance development efficiency and stay ahead in the tech industry. |
-| **🌟 Contributing** | Open-source projects and collaborating with other developers to create impactful solutions. |
 
 ###
 
@@ -131,7 +129,7 @@
 <div align="center">
    <img src="https://nirzak-streak-stats.vercel.app/?user=sheikh-saiyam&theme=dracula" height="200" alt="streak graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=sheikh-saiyam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-saiyam&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-saiyam&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  /> -->
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikh-saiyam&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  /> -->
 </div>
 
